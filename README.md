@@ -1,2 +1,2 @@
-# HS-AFM-analysis-software
+# HS-AFM-software
 
